@@ -27,24 +27,12 @@
 <div class="social-links-hero">
     <a href="https://github.com/deepigu" target="_blank">
         <i class="fab fa-github"></i>
-        <span>GitHub</span> <br>
+        <span>GitHub</span> 
     </a>
     <a href="https://linkedin.com/in/deepigu" target="_blank">
         <i class="fab fa-linkedin"></i>
         <span>LinkedIn</span> <br>
     </a>
-   
-    <a href="https://www.myprojectinc.com/home" target="_blank">
-        <i class="fas fa-globe"></i>
-        <span>Website</span>
-    </a> <br> 
-</div>
-
-    <a href="https://www.blogger.com/blog/posts/6945350972429959622" target="_blank">
-        <i class="fab fa-blogger"></i>
-        <span>Blog</span>
-    </a>  <br>
-
 </div>
 </p>
 
