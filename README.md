@@ -27,7 +27,7 @@
     </a>
     <a href="https://www.linkedin.com/in/deepiga" target="_blank">
         <i class="fab fa-linkedin"></i>
-        <span>LinkedIn</span>
+        <span>LinkedIn</span> <br>
     </a>
     <a href="https://yourblogurl.com" target="_blank">
         <i class="fab fa-blogger"></i>
