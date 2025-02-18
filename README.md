@@ -1,4 +1,4 @@
- <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+<head> </head> <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet"> </head>
 <h1 align="center">Hi 👋, I'm Deepika karunakaran</h1>
 <h3 align="center">My name is Deepika karunakaran and I am currently pursuing a bachelor’s degree in BA ITEC at York University. I live in Oshawa, Canada for more than two years.</h3>
 
@@ -38,6 +38,7 @@
         <span>Website</span>
     </a>
 </div>
+
 
 
 </p>
