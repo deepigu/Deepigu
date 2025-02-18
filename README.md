@@ -19,24 +19,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <div class="social-links-hero">
-                <a href="https://github.com/yourusername" target="_blank">
-                    <i class="fab fa-github"></i>
-                    <span>GitHub</span>
-                </a>
-                <a href="https://linkedin.com/in/yourusername" target="_blank">
-                    <i class="fab fa-linkedin"></i>
-                    <span>LinkedIn</span>
-                </a>
-                <a href="https://yourblog.blogspot.com" target="_blank">
-                    <i class="fab fa-blogger"></i>
-                    <span>Blog</span>
-                </a>
-                <a href="https://www.myprojectinc.com/home" target="_blank">
-                    <i class="fas fa-globe"></i>
-                    <span>Website</span>
-                </a>
-            </div>
+<div class="social-links-hero">
+    <a href="https://github.com/deepigu" target="_blank">
+        <i class="fab fa-github"></i>
+        <span>GitHub</span>
+    </a>
+    <a href="https://www.linkedin.com/in/deepiga" target="_blank">
+        <i class="fab fa-linkedin"></i>
+        <span>LinkedIn</span>
+    </a>
+    <a href="https://yourblogurl.com" target="_blank">
+        <i class="fab fa-blogger"></i>
+        <span>Blog</span>
+    </a>
+    <a href="https://www.yourwebsite.com" target="_blank">
+        <i class="fas fa-globe"></i>
+        <span>Website</span>
+    </a>
+</div>
+
 
 </p>
 
