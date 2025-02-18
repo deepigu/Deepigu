@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepika karunakaran</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">My name is Deepika karunakaran and I am currently pursuing a bachelor’s degree in BA ITEC at York University. I live in Oshawa, Canada for more than two years.</h3>
 
 - 🔭 I’m currently working on **Building E-commers website**
 
 - 🌱 I’m currently learning **React,Nodejs**
+
+- ☎️ Schedule a call
 
 - 👨‍💻 All of my projects are available at [myprojectinc.com](myprojectinc.com)
 
@@ -17,7 +19,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dee-itpassion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dee-itpassion/" height="30" width="40" /></a>
+<div class="social-links-hero">
+    <a href="https://github.com/deepigu" target="_blank">
+        <i class="fab fa-github"></i>
+        <span>GitHub</span>
+    </a>
+    <a href="https://www.linkedin.com/in/deepiga" target="_blank">
+        <i class="fab fa-linkedin"></i>
+        <span>LinkedIn</span>
+    </a>
+    <a href="https://yourblogurl.com" target="_blank">
+        <i class="fab fa-blogger"></i>
+        <span>Blog</span>
+    </a>
+    <a href="https://www.yourwebsite.com" target="_blank">
+        <i class="fas fa-globe"></i>
+        <span>Website</span>
+    </a>
+</div>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
